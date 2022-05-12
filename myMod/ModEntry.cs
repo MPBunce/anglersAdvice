@@ -65,7 +65,7 @@ namespace myMod
             Dictionary<int, string> internalFishData = Game1.content.Load<Dictionary<int, string>>("Data\\Fish");
 
 
-            this.Monitor.Log("\n\nOn a " + theWeather + " " + theSeason + " day the fish that will are as follows:\n", LogLevel.Debug);
+            this.Monitor.Log("\n\nOn a " + theWeather + " " + theSeason + " day the following fish can be caught:\n", LogLevel.Debug);
 
 
             foreach (KeyValuePair<int, string> keyValuePair in internalFishData)
