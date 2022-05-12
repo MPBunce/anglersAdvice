@@ -1,0 +1,12 @@
+E:\Games\steam\Steam\steamapps\common\Stardew Valley\Mods\myMod\myMod\bin\Debug\myMod.dll
+E:\Games\steam\Steam\steamapps\common\Stardew Valley\Mods\myMod\myMod\bin\Debug\myMod.pdb
+E:\Games\steam\Steam\steamapps\common\Stardew Valley\Mods\myMod\myMod\obj\Debug\myMod.csproj.CoreCompileInputs.cache
+E:\Games\steam\Steam\steamapps\common\Stardew Valley\Mods\myMod\myMod\obj\Debug\myMod.dll
+E:\Games\steam\Steam\steamapps\common\Stardew Valley\Mods\myMod\myMod\obj\Debug\myMod.pdb
+E:\Games\steam\Steam\steamapps\common\Stardew Valley\Mods\myMod\myMod\obj\Debug\myMod.csprojAssemblyReference.cache
+E:\Games\steam\Steam\steamapps\common\Stardew Valley\Mods\anglersAdvice\myMod\obj\Debug\myMod.csprojAssemblyReference.cache
+E:\Games\steam\Steam\steamapps\common\Stardew Valley\Mods\anglersAdvice\myMod\obj\Debug\myMod.csproj.CoreCompileInputs.cache
+E:\Games\steam\Steam\steamapps\common\Stardew Valley\Mods\anglersAdvice\myMod\obj\Debug\myMod.dll
+E:\Games\steam\Steam\steamapps\common\Stardew Valley\Mods\anglersAdvice\myMod\obj\Debug\myMod.pdb
+E:\Games\steam\Steam\steamapps\common\Stardew Valley\Mods\anglersAdvice\myMod\bin\Debug\myMod.dll
+E:\Games\steam\Steam\steamapps\common\Stardew Valley\Mods\anglersAdvice\myMod\bin\Debug\myMod.pdb
