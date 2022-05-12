@@ -1,5 +1,5 @@
 # anglersAdvice
-SMAPI mod that lists all the fish that can be caught/encountered based on season and weather.
+SMAPI mod that lists all the fish that can be caught/encountered at the beginning of the day based on season and weather.
 
 
 
