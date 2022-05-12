@@ -4,6 +4,4 @@ SMAPI mod that lists all the fish that can be caught/encountered at the beginnin
 
 
 
-
-
-![image](https://user-images.githubusercontent.com/77083766/167974623-9b063595-19a3-47b9-857b-4d8fccbac43e.png)
+![image](https://user-images.githubusercontent.com/77083766/167977529-5055ac53-09e0-444c-b9b5-b17eed8ea48b.png)
